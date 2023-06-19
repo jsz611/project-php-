@@ -1,0 +1,50 @@
+/*
+
+.tb_lojas {
+  width: 100%;
+  color: rgb(3, 71, 71);
+  text-align: center;
+}
+
+.bloco_pedido {
+  color: rgb(5, 55, 55);
+  display: flex;
+  width: 90%;
+}
+
+form {
+  float: left;
+  border: solid;
+  padding: 2%;
+  margin-left: 10%;
+  width: 30%;
+}
+
+.mostrar_formulario_pedido {
+  width: 30%;
+  border: solid;
+  float: right;
+  margin-left: 20%;
+  padding: 2%;
+
+}
+
+.botão_formulario_venda {
+  text-align: center;
+  padding: 5%;
+}
+
+.label_motrar_pedido {
+  text-align: center;
+  padding: 1em 3px 30px 5px;
+}
+
+.bloco_pedido input {
+  margin-left: 5%;
+}*/
+.container_items img {
+  object-fit: cover;
+
+  height: 200px;
+  min-width: 100%;
+}
